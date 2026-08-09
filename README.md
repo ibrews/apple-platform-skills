@@ -31,3 +31,7 @@ GameKit real-time and turn-based multiplayer. Covers GKLocalPlayer auth (must ha
 ## About
 
 Built by [Agile Lens](https://agilelens.com) — XR studio and Apple platform developers since 2009. These skills reflect real patterns from shipping visionOS and iOS apps including SharePlay multiplayer experiences.
+
+## Support
+
+If you like seeing this kind of thing get built and shared, [donations are always welcome](https://www.alexcoulombepresents.com/support) — they buy hardware, render time, and the freedom to keep giving most of this away.
